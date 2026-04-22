@@ -39,3 +39,17 @@
 
 # debug information files
 *.dwo
+
+# CMake build files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Executables
+n_queens_genetic
+run_experiments
+
+# CLion
+.idea/
