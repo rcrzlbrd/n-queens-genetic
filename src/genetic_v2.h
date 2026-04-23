@@ -1,3 +1,3 @@
 #pragma once
 
-double runGeneticV1(int n, int populationSize, int maxGenerations);
+double runGeneticV2(int n, int populationSize, int maxGenerations);
